@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/Reagan1947/latex2word/blob/master/codepen-brands.svg" alt="Markdownify" width="170">
+  <img src="https://github.com/Reagan1947/latex2word/blob/master/codepen-brands%20(1).png" alt="Markdownify" width="170">
   <br>
   Latex2Word
   <br>
