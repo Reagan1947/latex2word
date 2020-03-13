@@ -1,0 +1,101 @@
+/**
+ IndexPage Custom css File
+ Create by Reagan
+ */
+
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #e9e9e9;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+input, button, select, textarea {
+    outline: none
+}
+
+textarea {
+    resize: none
+}
+
+#MathMLBuffer:hover {
+    border: royalblue;
+}
+
+.head-title-right {
+    float: right;
+    color: white;
+    font-size: 14px;
+    padding: 0;
+    margin: 3px 8px;
+    background-color: #313131;
+    border: 0;
+}
+
+.head-title-right{
+    -webkit-app-region: no-drag;
+}
+
+.head-title-right:hover {
+    color: white;
+}
+
+.head-title-left {
+    color: white;
+    padding: 0 0 0 7px;
+    font-size: 14px;
+}
+
+#head-title {
+    background-color: rgba(0, 0, 0, 0.79);
+    width: 100%;
+    height: 30px;
+    padding: 5px;
+    -webkit-app-region: drag;
+}
+
+#editEquation {
+    font-weight: 500;
+    margin: 10px 0;
+    /* need changing */
+    font-family: "Microsoft YaHei UI", Arial;
+}
+
+#MathInput {
+    /*margin-top: 5px;*/
+    width: 100%;
+    border: none;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    /* need changing */
+    font-family: 'Inconsolata', monospace;
+}
+
+#bottom-button-help {
+    color: rgb(128, 128, 128);
+    margin: 20px 0 50px 0;
+    font-size: 20px;
+    border: none;
+    background-color: #e9e9e9;
+    /*padding-left: 2px !important;*/
+}
+
+.bottom-button {
+    font-weight: 600;
+    float: right;
+    border-radius: 0;
+}
+
+/* spin function */
+.fa-rotate-45 {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
