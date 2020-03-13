@@ -77,6 +77,6 @@ Like this program give me a star ⭐！Danke！
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-项目许可证为MIT许可证，你可以在[LICENSE.md](LICENSE.md)文件中查看。
+项目许可证为MIT许可证，你可以在[LICENSE](LICENSE)文件中查看。
