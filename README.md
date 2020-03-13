@@ -25,7 +25,7 @@ If you are **unable** to use mini window or top window button is **normal**.
 如果不能使用最小化或者置顶窗口按钮这是正常的。
 
 
-**🎉在[release](https://github.com/Reagan1947/latex2word/releases)这种下载rar文件解压即可获得exe执行文件，目前仅支持x64-windows操作系统。**
+**🎉在[release](https://github.com/Reagan1947/latex2word/releases)中下载rar文件解压即可获得exe执行文件，目前仅支持x64-windows操作系统。**
 
 **🎉In [release](https://github.com/Reagan1947/latex2word/releases), you can obtain the EXE execution file by decompressing the rar file. Currently, only x64 windows operating system is supported.**
 
