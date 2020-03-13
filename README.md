@@ -6,15 +6,17 @@
   <br>
 </h1>
 
-<h4 align="center" font-weight:bold;">Cvoer your Latex formula to Word MathML Equation.</br>将您的Latex公式转换为Word支持的MathML格式</br>
+<h4 align="center" font-weight:bold;">Cvoer your Latex formula to Word MathML Equation.</br>
+                                     将您的Latex公式转换为Word支持的MathML格式</br></h4>
+<p align="center">
 <img src="https://img.shields.io/badge/license-MIT-%23373737">
-<img src="https://img.shields.io/badge/plantform-electron-lightgrey"></h4>
+<img src="https://img.shields.io/badge/plantform-electron-lightgrey">
+</p>
 
-<div style="
-    width: 100%;
-    text-align: center;">
-<img src="E:\Pictures\exp_pic.png">
-</div>
+<p align="center">
+<img src="https://github.com/Reagan1947/latex2word/blob/master/exp_pic.png">
+</p>
+
 ## Warning!
 
 If you are **unable** to use mini window or top window button is **normal**.
@@ -58,7 +60,7 @@ At present, there are the following bugs:
 
 3. The installation package did not delete unnecessary support files. The files are too large after electronic packaging   //安装包没有删除不需要的支持文件，electron打包以后文件过大
 
-## To DO List
+## To Do List
 
 - [ ]  Finish mini and top window function.
 - [ ] Rebuild it by VUE
