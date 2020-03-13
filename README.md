@@ -1,10 +1,10 @@
 <div style="
     width: 100%;
     text-align: center;">
-<img src="https://github.com/Reagan1947/latex2word/blob/master/codepen-brands.svg" style="high:170px; width:170px; ">
+<img src="https://github.com/Reagan1947/latex2word/blob/master/codepen-brands.svg" style="high:20px; width:20px; ">
 <p style="font-weight:bold; font-size:25px;">Latex2Word</p>
 </div>
----
+
 
 <p style="text-align: center; font-weight:bold;">Cvoer your Latex formula to Word MathML Equation.</br>将您的Latex公式转换为Word支持的MathML格式</br>
 <img src="https://img.shields.io/badge/license-MIT-%23373737">
